@@ -4,7 +4,7 @@ import java.util.ArrayList;
 class Patient {
     private int id;
     private String name;
-    private int age;
+    //private int age;
     private String ailment;
 
     public Patient(int id, String name, int age, String ailment) {
@@ -102,4 +102,5 @@ public class HospitalManagement {
         System.out.println("Patient with ID " + id + " not found.");
     }
 }
+
 
