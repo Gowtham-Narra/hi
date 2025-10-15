@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 class Patient {
     private int id;
@@ -102,3 +102,4 @@ public class HospitalManagement {
         System.out.println("Patient with ID " + id + " not found.");
     }
 }
+
